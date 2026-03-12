@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-cases",
+  "version": "1.0.0",
+  "description": "—имул€тор открыти€ кейсов Minecraft дл€ учебной практики",
+  "scripts": {
+    "sass": "sass scss:css",
+    "sass-watch": "sass --watch scss:css",
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.70.0"
+  }
+}
