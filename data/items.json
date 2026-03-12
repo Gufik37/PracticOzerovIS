@@ -1,1 +1,8 @@
-
+[
+    { "name": "Каменный меч", "rarity": "common", "image": "🗡️" },
+    { "name": "Алмаз", "rarity": "rare", "image": "💎" },
+    { "name": "Золотое яблоко", "rarity": "epic", "image": "🍎" },
+    { "name": "Книга зачарований", "rarity": "rare", "image": "📖" },
+    { "name": "Незерит", "rarity": "epic", "image": "🔥" },
+    { "name": "Грязь", "rarity": "common", "image": "🧱" }
+]
